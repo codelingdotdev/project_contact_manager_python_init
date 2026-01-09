@@ -1,6 +1,6 @@
 # Build a Contact Manager in Python Project
 
-This is the student starter repo for the [Build a Contact Manager](https://codeling.dev/projects/build-a-contact-manager/) course provided by [Codeling](https://codeling.dev).
+This is the student starter repo for the [Build a Contact Manager](https://codeling.dev/projects/build-a-contact-manager/) project provided by [Codeling](https://codeling.dev).
 
 ## How to use this repo
 
